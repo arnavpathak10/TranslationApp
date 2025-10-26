@@ -84,11 +84,17 @@
 
 📂 Project Structure
   TranslationApp/
+  
   │
+  
   ├── languageTranslationFunction.py    # Core translation logic
+  
   ├── voiceTranslator.py                # Voice input + text-to-speech logic
+  
   ├── requirements.txt                  # Dependencies
+  
   ├── layouts/                          # (Optional UI or layout files)
+  
   └── __pycache__/                      # Cached files
 
 🖼️ Screenshots & Demos
